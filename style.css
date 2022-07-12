@@ -125,7 +125,7 @@ form {
 #cancel {
   color: #b9b6cf;
   font-size: 1rem;
-  font-weight:bolder;
+  font-weight: bolder;
   background-color: unset;
   text-align: center;
   margin-bottom: 3rem;
@@ -137,7 +137,7 @@ form {
 }
 #cancel a:hover {
   text-decoration: none;
-  color: var(--primary-text-color)
+  color: var(--primary-text-color);
 }
 
 .attribution {
